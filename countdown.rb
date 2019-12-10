@@ -2,5 +2,5 @@
 
 def countdown
   while 0 < 10 
-  puts ""
+  puts "#{number} SECOND(S)!"
 end
