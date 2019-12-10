@@ -5,4 +5,5 @@ def countdown
   while x < 10 
   puts "#{countdown(x)} SECOND(S)!"
   return "HAPPY NEW YEAR!"
+  x += 1
 end
